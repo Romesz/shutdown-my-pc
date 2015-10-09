@@ -1,0 +1,19 @@
+{
+  "name": "shutdown-my-pc",
+  "version": "0.0.1",
+  "description": "The is app can shut down your pc",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node app.js"
+  },
+  "keywords": [
+    "shutdown PC"
+  ],
+  "author": "Romano Firtermaiszter <firtermaiszter.romano@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "network-address": "^1.0.0",
+    "power-off": "^1.0.0"
+  }
+}

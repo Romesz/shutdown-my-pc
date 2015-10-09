@@ -6,6 +6,10 @@
   "scripts": {
     "serve": "node app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Romesz/shutdown-my-pc.git"
+  },
   "keywords": [
     "shutdown PC"
   ],
